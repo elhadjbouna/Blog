@@ -1,0 +1,9 @@
+.piedDePage{
+    margin-top: 0rem;
+    padding: 0rem;
+    background-color: rgb(235, 195, 64);
+    position: fixed;
+    bottom: -16px;
+    left: 160px;
+    width: 50%;
+  }
